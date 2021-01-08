@@ -1,0 +1,25 @@
+{
+  "name": "placcard",
+  "version": "1.0.0",
+  "description": "Place text or Images over a canvas easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuinnSherryInc/Placcard.git"
+  },
+  "keywords": [
+    "canvas",
+    "text",
+    "image",
+    "socialMedia"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuinnSherryInc/Placcard/issues"
+  },
+  "homepage": "https://github.com/QuinnSherryInc/Placcard#readme"
+}
