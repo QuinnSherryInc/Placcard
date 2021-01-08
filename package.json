@@ -1,8 +1,12 @@
 {
   "name": "placcard",
   "version": "1.0.0",
-  "description": "Place text or Images over a canvas easily",
+  "description": "place text or images over a canvas easily",
   "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.6.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,10 +15,12 @@
     "url": "git+https://github.com/QuinnSherryInc/Placcard.git"
   },
   "keywords": [
-    "canvas",
+    "\"Social",
+    "Media\"",
     "text",
-    "image",
-    "socialMedia"
+    "canvas",
+    "images",
+    "overlay"
   ],
   "author": "",
   "license": "MIT",
